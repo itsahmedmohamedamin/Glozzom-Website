@@ -1,0 +1,29 @@
+/* Start NavBar */
+.navbar .nav-link {
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-left: 1rem !important;
+	padding-right: 1rem !important;
+}
+.navbar .nav-item .active {
+	border-left: #444 3px solid;
+}
+/* End NavBar */
+/* Start Footer */
+.footer h1{
+	font-size: 1.5rem;
+}
+/* End Footer */
+/* Start FAQ */
+#faq .card {
+	border: #444;
+}
+#faq a {
+	color: #fff;
+	text-decoration: none;
+}
+#faq .card-body,
+#faq .card-header {
+	background-color: #333;
+}
+/* End FAQ */

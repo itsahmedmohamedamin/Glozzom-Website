@@ -1,0 +1,37 @@
+/* Start Navbar */
+.navbar .nav-link {
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-left: 1rem !important;
+	padding-right: 1rem !important;
+}
+.navbar .nav-item .active {
+	border-left: #444 3px solid;
+}
+/* End Navbar */
+/* Start Footer */
+.footer h1{
+	font-size: 1.5rem;
+}
+/* End Footer */
+/* start Page Header */
+.header {
+	height: 200px;
+	background: url('../images/image1.jpg');
+	background-position: 0 -360px;
+	background-attachment: fixed;
+	color: #fff;
+	border-bottom: 1px #eee solid;
+	padding-top: 30px;
+}
+/* end Page Header */
+/* Start About */
+.about-img {
+	margin-top: -25px;
+}
+/* End About */
+/* Start Testimonials */
+.slick-arrow {
+	margin-top: -19px;
+}
+/* End Testimonials */
