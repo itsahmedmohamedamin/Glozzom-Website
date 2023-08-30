@@ -1,5 +1,6 @@
 # Glozzom-Website
-A website for a startup for hiring business entrepreneurship modules
+A website for a startup for hiring business entrepreneurship modules.
+This Template is for Sale
 
 ### Home:
 
